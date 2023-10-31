@@ -1,2 +1,1 @@
-venv/lib/python3.11/site-packages/numpy/.dylibs/libopenblas64_.0.dylib filter=lfs diff=lfs merge=lfs -text
-.git/objects/pack/pack-b4a67d43d56b990fdd5b8844a16bc62099162726.pack filter=lfs diff=lfs merge=lfs -text
+venv/
