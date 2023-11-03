@@ -1,6 +1,6 @@
 <p align="center">
 <a href=https://github.com/sohomx/LCEL target="_blank">
-<img src='/placeholder.jpg' width="100%" alt="Banner" />
+<!-- <img src='/placeholder.jpg' width="100%" alt="Banner" /> -->
 </a>
 </p>
 
